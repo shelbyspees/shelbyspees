@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Shelby
+
+I'm a developer advocate at [Honeycomb](http://honeycomb.io). Reach out on [twitter](http://twitter.com/shelbyspees), or schedule time during my [office hours](http://honeycomb.io/shelby/observability-office-hours)!
+
+If you're looking for slides from a talk I've given, you can request them at [honeycomb.io/shelby](http://honeycomb.io/shelby)
+
+#### Personal
+
+My pronouns are she/her but I'm also comfortable using they/them. Check out my blog: [shelbyspees.com/posts](http://shelbyspees.com/posts)
 
 <!--
 **shelbyspees/shelbyspees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
