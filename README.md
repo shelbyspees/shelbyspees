@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Shelby
 
 I've been developing software professionally since 2015.
-
-Since then I've been lucky enough to work in a range of domains:
+Since then I've been lucky to work in a range of domains:
 
 - aerospace 🚀🛰️ (satellite orbits, ground systems networks, launch telemetry)
 - build tooling 🏗️📦 (CentOS, rpm, dependency management)
@@ -20,11 +19,16 @@ Hit me up!
 
 #### work 💻🥑
 
-I'm a developer advocate at [Honeycomb](http://honeycomb.io).
+I work as a Developer Advocate at [Honeycomb](http://honeycomb.io/).
+My job involves spreading the word about observability,
+helping people get the most out of Honeycomb,
+and sharing valuable user feedback with our product team.
 
-- read [my posts on the Honeycomb blog] (https://www.honeycomb.io/author/shelby/)
-- schedule time during my [office hours](https://honeycomb.io/shelby/observability-office-hours)
-- request slides: [honeycomb.io/shelby](http://honeycomb.io/shelby)
+I'm also responsible for the [Honeycomb blog](http://honeycomb.io/blog/) and [o11ycast](http://o11y.fm/)!
+
+- [read my posts on the Honeycomb blog](https://www.honeycomb.io/author/shelby/)
+- schedule time during my [office hours](https://honeycomb.io/shelby/observability-office-hours/)
+- request slides: [honeycomb.io/shelby](http://honeycomb.io/shelby/)
 
 <!--
 **shelbyspees/shelbyspees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
