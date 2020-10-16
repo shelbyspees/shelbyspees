@@ -1,13 +1,5 @@
 ### Hi there 👋 I'm Shelby
 
-I've been developing software professionally since 2015.
-Since then I've been lucky to work in a range of domains:
-
-- aerospace 🚀🛰️ (satellite orbits, ground systems networks, launch telemetry)
-- build tooling 🏗️📦 (CentOS, rpm, dependency management)
-- web services infrastructure 🌐📲 (adtech, ML model deployment, AWS, Chef, Terraform)
-- observability 🌈📊 (instrumentation, OpenTelemetry)
-
 #### personal 💜🐾
 
 - pronouns: she/her or they/them
@@ -29,18 +21,3 @@ I'm also responsible for the [Honeycomb blog](http://honeycomb.io/blog/) and [o1
 - [read my posts on the Honeycomb blog](https://www.honeycomb.io/author/shelby/)
 - schedule time during my [office hours](https://honeycomb.io/shelby/observability-office-hours/)
 - request slides: [honeycomb.io/shelby](http://honeycomb.io/shelby/)
-
-<!--
-**shelbyspees/shelbyspees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
