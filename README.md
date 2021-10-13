@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Shelby
+Hi there 👋 I'm Shelby
 
-- pronouns: she/her or they/them
-- dog: [nova.spees.dev](https://nova.spees.dev)
+- pronouns: she/her
+- dog: [nova.spees.dog](https://nova.spees.dog)
 - work: [work.spees.dev](https://work.spees.dev)
 - other links: [spees.dev/links](https://spees.dev/links)
 
